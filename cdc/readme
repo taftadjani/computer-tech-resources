@@ -1,0 +1,64 @@
+Gagdets
+    Computer
+        Fixe
+        Portable
+    Cell phone
+    Tablet
+Composants
+    Carte mere
+    Carte reseau
+    Carte graphique
+    Memoire
+        ROM 
+        RAM
+    Tour(Pc fixe)
+    Connectiques
+        RJ-45
+        USB
+            2.0
+            3.0
+Devices
+    Souris
+    Keyboard
+    Casque/ecouteur
+    Chargeur
+    Ecran
+    Manettes
+Benchmarks
+Brands
+Modele
+Users
+    Admin
+    Not connected
+    Simple User
+    Vendeur 
+Role
+Price
+
+Front end 
+    PC gamer
+    Pc Portable
+    Top cell phone 
+    Recommendeds
+    Top benchmark
+
+    Lorsque l'utilisateur monte son PC, on met à jour le front end pour montrer si le montage est complet ou s'il existe des choses manquantes.
+
+    Lorsqu'on fait un montage,on doit savoir ce qu'on veut monter(Computer(fixe ou portable) - Cell phone - Tablet) 
+
+    Lorsqu'on fait un montage, on devra egalement savoir le niveau du monteur(recrut - medium - advanced). A chaque niveau correspond un detail plus avancée.
+
+Fonstionalities
+    Search
+    Authentication
+    SEO
+    Voir les benchmark de son PC(Capacités de son pc)
+        Test your PC and compare the results to other users with the same components. You can quickly size up your PC, identify hardware problems and explore the best upgrades. 
+        Voir si son PC peut faire fonctionner un logiciel
+        Qu'est-ce que le PC a besoin comme ajout ou modification pour etre au top
+    Langues
+    Comparer des configs
+    
+Backend
+    Il y a des choses visible sur le front endet d'autres non.
+    Comment faire pour mettre à jour les prix et garder l'historique.
